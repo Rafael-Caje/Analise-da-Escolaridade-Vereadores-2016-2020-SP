@@ -1,4 +1,4 @@
-# Análise da Escolaridade de Vereadores em 2016 e 2010
+# Análise da Escolaridade de Vereadores em 2016 e 2020
 Trabalho de Lógica de Programação (1° Sem. FATEC) usando Jupyter Notebook. Estudo da variação da escolaridade dos candidatos a vereadores de 2016 para 2020.
 
 ***
