@@ -17,6 +17,7 @@ Variação da escolaridade dos candidatos a vereadores de 2016 para 2020. Neste 
 * Comparativo Escolaridade Sexos
 * Comparativo Escolaridade Estado Civil
 * Comparativo Escolaridade Etnias
+* Comparativo Etnias com Nível Superior
 
 ***
 
