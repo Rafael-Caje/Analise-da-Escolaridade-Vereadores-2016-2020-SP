@@ -21,10 +21,10 @@ Variação da escolaridade dos candidatos a vereadores de 2016 para 2020. Neste 
 
 ***
 
-Link para arquivos analisados.
+Link para arquivos analisados:
 
 https://drive.google.com/drive/folders/1Jd-25kE640Sxz3GfST0VaSbIbTM23z0-
 
-Guithub usado como referência em alguns códigos.
+Guithub usado como referência:
 
 https://github.com/EricaSantos2109/Analise-de-candidatas-vereadoras-de-Cacapava/blob/main/analise_candidadas_cacapava_2016_2020.ipynb
